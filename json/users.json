@@ -1,0 +1,14 @@
+{
+    "hichem": {
+        "password": "test123",
+        "role": "admin"
+    },
+    "tomi": {
+        "password": "1234",
+        "role": "user"
+    },
+    "jalel": {
+        "password": "12345",
+        "role": "user"
+    }
+}

@@ -1,0 +1,33 @@
+SecureDataHub Tutorial
+
+1. Encrypt File(s):
+   - Wählen Sie bis zu drei Dateien aus, die Sie verschlüsseln möchten.
+   - Geben Sie ein sicheres Passwort ein (mindestens 12 Zeichen, Groß- und Kleinbuchstaben, eine Ziffer, ein Sonderzeichen).
+   - Die Dateien werden verschlüsselt und mit der Endung .enc gespeichert.
+
+2. Decrypt File(s):
+   - Wählen Sie bis zu drei verschlüsselte Dateien (.enc) aus, die Sie entschlüsseln möchten.
+   - Geben Sie das Passwort ein, das zur Verschlüsselung verwendet wurde.
+   - Die Dateien werden entschlüsselt und im ursprünglichen Format gespeichert.
+
+3. Check Compliance:
+   - Überprüft die Einhaltung der DSGVO-Richtlinien.
+   - Geben Sie das Passwort ein, das auf Einhaltung überprüft werden soll.
+   - Zeigt Compliance-Verstöße an, falls vorhanden.
+
+4. Backup Data:
+   - Wählen Sie einen Quellordner aus, der gesichert werden soll.
+   - Wählen Sie einen Speicherort für die Sicherungsdatei (.zip) aus.
+   - Die Daten werden in einer Zip-Datei gesichert.
+
+5. Restore Data:
+   - Wählen Sie eine Sicherungsdatei (.zip) aus, die wiederhergestellt werden soll.
+   - Wählen Sie einen Zielordner für die Wiederherstellung der Daten aus.
+   - Die Daten werden im Zielordner wiederhergestellt.
+
+6. Edit Policies:
+   - Ermöglicht das Hinzufügen, Bearbeiten und Löschen von Compliance-Richtlinien.
+   - Verwalten Sie die Compliance-Richtlinien, um die Anforderungen der DSGVO zu erfüllen.
+
+7. Exit:
+   - Schließt die Anwendung.
